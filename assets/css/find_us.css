@@ -1,0 +1,22 @@
+/* Begin Jumbotron Styles */		
+		.jumbotron
+		{
+		margin:0;
+		padding-top: 3%;
+		padding-bottom:4%;
+		height: 100%;
+		background-image: url("C:/Users/ANDREW/Documents/Complete Web Developer Course/Sams Indian Bootstrap/sams_assets/sams_images/sams_place.jpg");
+		background-position: center;
+		background-size: cover;
+		background-repeat: no-repeat;
+		color: black;
+		}
+
+/* Iframe */		
+		iframe
+		{
+		width:100%;
+		height:297px; 
+		frameborder:0;
+		border:0;
+		}

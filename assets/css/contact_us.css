@@ -1,0 +1,42 @@
+/* Begin Jumbotron Styles */
+		.jumbotron
+		{
+		margin:0;
+		padding-top: 10%;
+		padding-bottom:10%;
+		height: 100%;
+		background-image: url("C:/Users/ANDREW/Documents/Complete Web Developer Course/Sams Indian Bootstrap/sams_assets/sams_images/wood_peppers.jpg");
+		background-position: center;
+		background-size: cover;
+		background-repeat: no-repeat;
+		color: black;
+		}
+	
+		#jumbotron-content
+		{
+		background: rgba(169,23,23,0.8);
+		padding:40px 20px 50px 20px;
+		border-radius:5px;
+		font-weight:bold;
+		font-family: 'Roboto'
+		}
+		
+		#jumbotron-content h1
+		{
+		font-family: 'Berkshire Swash', cursive;
+		font-size:200%;
+		color:#eebd12;
+		}
+		
+		.jumbotron button
+		{
+		margin-left:auto;
+		margin-right:auto;
+		}
+/* End Jumbotron Styles */
+
+/* Contact Us Footbar */
+		#footbar
+		{
+		padding: 23px;
+		}

@@ -1,0 +1,108 @@
+/* Main */	
+body 
+		{
+		margin: 0;
+		padding: 0;
+		font-family: 'Roboto', "Helvetica Neue", Helvetica, Arial, sans-serif;
+		background-image: url("C:/Users/ANDREW/Documents/Complete Web Developer Course/Sams Indian Bootstrap/sams_assets/sams_images/akhil-chandran-204546.jpg");
+		background-position: center;
+		background-size: cover;
+		background-repeat: repeat;
+		color: black;
+		}
+
+/* Menu Styles */
+
+		.container-fluid
+		{
+		font-size:120%;
+		}
+
+		#main-content-container
+		{
+		text-align:center;
+		background: rgba(169,23,23,0.8);
+		}	
+
+		#main-content-container h1
+		{
+		color:#eebd12;
+		font-family: 'Berkshire Swash', cursive;
+		padding:20px;
+		}
+
+		#main-content-container h2
+		{
+		color:#eebd12;
+		font-family: 'Berkshire Swash', cursive;
+		}
+			
+		.row
+		{
+		width:100%;
+		padding-top:2px;
+		padding-bottom:2px;
+		}
+			
+		.starter-title-row
+		{
+		width:84%;
+		}
+
+		.price-title-row
+		{
+		width:16%;
+		}
+
+		.dish-descrip
+		{
+		width:85%;
+		padding-left:5px;
+		}
+		
+		.veg-dish-descrip
+		{
+		width:60%;
+		}
+		
+		.dish-name
+		{
+		width:85%;
+		}
+		
+		.dish-price
+		{
+		width:12%;
+		display:block;
+		}
+		
+		.dish-price-left
+		{
+		width:15%;
+		display:block;
+		margin-left:auto;
+		margin-right:auto;
+		}
+		
+		.line-spacer
+		{
+		width:1%;
+		}		
+		 
+		.main-dish-lh-title
+		{
+		width:28%;
+		display:block;
+		}
+		
+		.side-dish-rh-title
+		{
+		width:10%;
+		display:block;
+		}
+		
+		span
+		{
+		font-weight:bold;
+		}
+		

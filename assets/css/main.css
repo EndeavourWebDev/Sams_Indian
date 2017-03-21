@@ -1,0 +1,72 @@
+/* Main */		
+		body 
+		{
+		margin: 0;
+		padding: 0;
+		font-family: 'Roboto', "Helvetica Neue", Helvetica, Arial, sans-serif;
+		}
+
+/* Begin Navigation Styles */
+		.navbar
+		{
+		font-size:120%;
+		font-family: 'Roboto', "Helvetica Neue", Helvetica, Arial, sans-serif;
+		}
+
+		#navbar-logo
+		{
+		height:50%;
+		width:50%;
+		}
+/* End Navigation Styles */
+
+/* Begin Jumbotron Styles */	
+		.jumbotron
+		{
+		margin:0;
+		padding-top: 10%;
+		padding-bottom:8%;
+		height: 100%;
+		background-image: url("C:/Users/ANDREW/Documents/Complete Web Developer Course/Sams Indian Bootstrap/sams_assets/sams_images/sams_place.jpg");
+		background-position: center;
+		background-size: cover;
+		background-repeat: no-repeat;
+		color: black;
+		}
+	
+		#jumbotron-content
+		{
+		background: rgba(169,23,23,0.8);
+		padding:20px 20px 50px 20px;
+		border-radius:5px;
+		font-weight:bold;
+		font-family: 'Roboto'
+		}
+		
+		#jumbotron-content h1
+		{
+		font-family: 'Berkshire Swash', cursive;
+		font-size:200%;
+		color:#eebd12;
+		}
+		
+		.jumbotron button
+		{
+		margin-left:auto;
+		margin-right:auto;
+		}
+/* End Jumbotron Styles */
+
+/* Footbar */
+		#footbar
+		{
+		min-height: 100%;
+		padding: 21.5px;
+		}
+		
+		#footbar p
+		{
+		color:gray;
+		padding-top:10px;
+		}
+		

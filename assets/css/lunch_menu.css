@@ -1,0 +1,42 @@
+/*Lunch Menu Styles*/
+		
+		#main-content
+		{
+		text-align: center;
+		background: rgba(169,23,23,0.8);
+		}
+		
+		#main-content ul
+		{
+		display: inline-block; text-align: left;
+		}
+		
+		#main-content span
+		{
+		font-weight:bold;
+		}
+		
+		#main-content h2
+		{
+		color:#eebd12;
+		font-family: 'Berkshire Swash', cursive;
+		}
+		
+		#main-content h1
+		{
+		color:#eebd12;
+		font-family: 'Berkshire Swash', cursive;
+		padding:20px;
+		
+		}
+		
+		#main-content-container
+		{
+		margin:0;
+		background-image: url("C:/Users/ANDREW/Documents/Complete Web Developer Course/Sams Indian Bootstrap/sams_assets/sams_images/onion.jpg");
+		background-position: center;
+		background-size: cover;
+		background-repeat: no-repeat;
+		color: black;
+		font-size:120%;
+		}

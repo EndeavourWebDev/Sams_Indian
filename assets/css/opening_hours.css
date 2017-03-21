@@ -1,0 +1,12 @@
+		.jumbotron
+		{
+		margin:0;
+		padding-top: 5%;
+		padding-bottom:5%;
+		height: 675px;
+		background-image: url("C:/Users/ANDREW/Documents/Complete Web Developer Course/Sams Indian Bootstrap/sams_assets/sams_images/spice_spoon.jpg");
+		background-position: center;
+		background-size: cover;
+		background-repeat: no-repeat;
+		color: black;
+		}
