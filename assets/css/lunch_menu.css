@@ -33,7 +33,7 @@
 		#main-content-container
 		{
 		margin:0;
-		background-image: url("https://cdn.rawgit.com/EndeavourWebDev/Sams_Indian/fd5d3dd1/assets/images/onion.jpg");
+		background-image: url("https://cdn.jsdelivr.net/gh/EndeavourWebDev/Sams_Indian@fd5d3dd1/assets/images/onion.jpg");
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
